@@ -18,33 +18,35 @@ Les sections marquées par une étoile sont prévues pour être significativemen
 
 Dans cette première partie de l'année, nous introduisons quelques notions élémentaires d'informatique. L'objectif est de comprendre ce qu'est concrètement un ordinateur et comment nous pouvons les programmer.
 
-1. La machine 
-   1. C'est quoi un programme (texte -> compilateur -> exécutable) *(Septembre)*
-   2. architecture/processeur(s) 
-   3. ASM (exemple jouet M99, exemple projet ARM, exemple secu x86)
+1. La machine
+   1. **Note** C'est quoi un programme (texte -> compilateur -> exécutable) *(Septembre)*
+   2. **Vidéo+Note** C'est quoi un ordinateur (VM M99)
+   3. **Séance+Note** Programmation assembleur (x86)
 2. Prise en main d'une environnement UNIX *(Septembre)*
-   1. programmes et commandes
-   2. éditeurs de texte
-   3. le terminal (cd, ls, cat, echo)
-   4. git/github
-   5. compilation
+   1. **Vidéo** programmes et commandes
+   2. **Séance+Vidéo** git et commandes de compilation
+   3. **Séances+Notes** Outillages logiciel avancé
 3. Programmation *(???)*
-   1. Programmer en C, algorithmique élémentaire, E/S
-   2. Programmer en Python, structures de données avancée
-   3. (*) langage(s) avancé(s) et projets de programmation (OCaml, Rust, C++)
+   1. **Note+Séance+Vidéo** Programmation, algorithme, mémoire (C, Python)
+   2. (*)**Note+Séance+Vidéo** Programmation avancée (OCaml, Rust, C++)
 
 ### Fondements
 
 Ce deuxième volet de la série s'intéresse à des aspects plus "mathématiques" de la science informatique. Nous y explorerons quelques liens entre informatique et logique mathématique. Nous verrons comment prouver des algorithmes et comment résoudre de jolis problèmes mathématiques avec des programmes. Dans une dernière partie nous verrons comment créer un langage de programmation de toute pièce.
 
 1. Logique formelle *(???)*
-   1. Logique de propositions/logique de prédicats
-   2. Solveurs SAT
-   3. (*) Preuves en déduction naturelle
+   1. **Note+Vidéo** Logique de propositions/logique de prédicats
+   2. **Note+Projet** Solveurs SAT
 2. Preuve d'algorithmes *(???)*
-   1. Spécifications/Vérification
-   2. (*) Programmation Coq et preuves assistées par ordinateur
+   1. **Note+Vidéo** Spécifications/Vérification
+   2. (*)**Note+Vidéo** Programmation Coq et preuves assistées par ordinateur
 3. Compilation *(???)*
-   1. Langages, analyse lexicale et syntaxique
-   2. Génération de code
-   3. (*) Optimisations de code
+   1. **Note+Vidéo** Langages, analyse lexicale et syntaxique
+   2. **Projet+Note+Vidéo** Création d'un langage de programmation
+
+
+### Application
+
+Sécu ? Crypto ? Invités ?
+
+n'hésitez pas à compléter les copains !!!
