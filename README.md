@@ -6,7 +6,7 @@ Programme des ateliers CodeAnon 2020
 
 Responsable : Arthur Correnson
 
-L'idée générale de cette série est de survoler sur l'année un éventail large de thématique en partant des **Fondamentaux** pour aller jusqu'aux **Fondements** de l'informatique. Nous y aborderons bien sûr la programmation, mais aussi la prise en main concrète des différents outils incontournables de l'informaticien ainsi que des aspects plus théorique de la science informatique.
+L'idée générale de cette série est de survoler sur l'année un éventail large de thématiques en partant des **Fondamentaux** pour aller jusqu'aux **Fondements** de l'informatique. Nous y aborderons bien sûr la programmation, mais aussi la prise en main concrète des différents outils incontournables de l'informaticien ainsi que des aspects plus théorique de la science informatique.
 
 Cette série de ressources n'est en aucun un cours ! Elle sera publiée au fil de l'année sous la forme d'articles et de vidéos. Les concepts y seront abordés avec un soucis de vulgarisation et de partage. Les ateliers sont conçus de manière à satisfaire à la fois les débutants désireux de découvrir le monde merveilleux ou plutôt LES MONDES de l'informatique.
 
@@ -16,7 +16,7 @@ Les sections marquées par une étoile sont prévues pour être significativemen
 
 ### Fondamentaux
 
-Dans cette première partie de l'année, nous introduisons quelques notions élémentaire d'informatique. L'objectif est de comprendre ce qu'est concrètement un ordinateur et comment nous pouvons les programmer.
+Dans cette première partie de l'année, nous introduisons quelques notions élémentaires d'informatique. L'objectif est de comprendre ce qu'est concrètement un ordinateur et comment nous pouvons les programmer.
 
 1. La machine 
    1. C'est quoi un programme (texte -> compilateur -> exécutable) *(Septembre)*
@@ -31,7 +31,7 @@ Dans cette première partie de l'année, nous introduisons quelques notions él�
 3. Programmation *(???)*
    1. Programmer en C, algorithmique élémentaire, E/S
    2. Programmer en Python, structures de données avancée
-   3. (*) Programmer en OCaml, langage(s) avancé(s)
+   3. (*) langage(s) avancé(s) et projets de programmation (OCaml, Rust, C++)
 
 ### Fondements
 
