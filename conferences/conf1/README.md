@@ -25,6 +25,7 @@ Les slides de la présentation se trouve dans le fichier `conf1.pdf`
 
 ## Questions, retours ?
 
+Pour toute question ou suggestions, n'hésitez pas à me contacter ([jdrprod](https://github.com/jdrprod))
 
 
 
